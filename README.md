@@ -33,7 +33,7 @@ Click on any project below to dive into its folder. We've got everything from un
 
 | 🧰 Project Name | 🎭 Type | 🧠 What it actually does | 🔗 Link |
 | :--- | :---: | :--- | :---: |
-<!--| **The Un-Zipper** | `GUI` | Extracts chaotic zip files in one click. Zero brainpower required. | [<kbd>➦ Go</kbd>](./1-zip-extractor) | -->
+| **Zip Extractor** | `TUI` | A modern terminal-based Zip extractor built with Textual and Rich. | [<kbd>➦ Go</kbd>](./TUI/01_zip_extractor_TUI) | 
 
 <br>
 
