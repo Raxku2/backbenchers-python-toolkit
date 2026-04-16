@@ -34,6 +34,7 @@ Click on any project below to dive into its folder. We've got everything from un
 | 🧰 Project Name | 🎭 Type | 🧠 What it actually does | 🔗 Link |
 | :--- | :---: | :--- | :---: |
 | **Zip Extractor** | `TUI` | A modern terminal-based Zip extractor built with Textual and Rich. | [<kbd>➦ Go</kbd>](./TUI/01_zip_extractor_TUI) | 
+| **Repo Scanner** | `TUI` | A Command-line Github Repository Info Scanner built with PyGithub and Rich. | [<kbd>➦ Go</kbd>](./CLI/01_repo_scanner/) | 
 
 <br>
 
