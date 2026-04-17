@@ -1,0 +1,10 @@
+cffi==2.0.0
+cryptography==46.0.7
+dotenv==0.9.9
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pycparser==3.0
+Pygments==2.20.0
+pyperclip==1.11.0
+python-dotenv==1.2.2
+rich==15.0.0
