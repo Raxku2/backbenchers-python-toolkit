@@ -1,0 +1,7 @@
+cffi==2.0.0
+cryptography==46.0.7
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pycparser==3.0
+Pygments==2.20.0
+rich==15.0.0
